@@ -2,9 +2,9 @@
 This project allows you to select from a list of anime and be able see watch all episodes that are  considered "non-filler" according to AnimeFillerList.com.
 
 # Tech Breakdown:
-Frontend - Streamlit
-Backend - Python
-FillerList - AnimeFillerList.com
+Frontend - Streamlit <br />
+Backend - Python <br />
+FillerList - AnimeFillerList.com <br />
 Stream Links - GogoAnimeApi
 
 # How to run:
