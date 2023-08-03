@@ -10,6 +10,6 @@ Stream Links - GogoAnimeApi
 # How to run:
 Please run the following to install the necessary dependencies: pip install -r requirements.txt
 
-The frontend ui is created by Streamlit and stored the code in the "ui.py" file. Therefore if you want to run this locally you have to enter the following cmd in terminal: streamlit run ui.py
+The frontend ui is created by Streamlit and stored the code in the "ui.py" file. Therefore if you want to run this locally you have to enter the following cmd in the ide terminal: streamlit run ui.py
 
 *This app is not for commercial use*
