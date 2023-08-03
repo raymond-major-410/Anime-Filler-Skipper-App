@@ -4,6 +4,7 @@ This project allows you to select from a list of anime and be able see watch all
 # Tech Breakdown:
 Frontend - Streamlit <br />
 Backend - Python <br />
+Web Scraping - Beautiful Soap (BS4)
 FillerList - AnimeFillerList.com <br />
 Stream Links - GogoAnimeApi
 
