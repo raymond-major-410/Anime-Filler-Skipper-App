@@ -14,9 +14,9 @@ def remove_non_numeric_parentheses(string_val):
         if match is not None:
             first_occurrence_index = match.start()
             filtered_val = string_val[0:first_occurrence_index] #get substring that will return the val w/o the parentheses
-            return filtered_val
+            return filtered_val.strip()
     else:
-        return string_val
+        return string_val.strip()
     
 # cache anime list data for no longer than 4hrs
 @cached(cache=TTLCache(maxsize=16, ttl=14400))
